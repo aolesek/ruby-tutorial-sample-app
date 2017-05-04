@@ -1,6 +1,7 @@
 class SessionsController < ApplicationController
 
   def new
+      #debugger
   end
 
   # Login test won't work when @user is local !!!
